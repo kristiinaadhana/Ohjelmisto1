@@ -1,0 +1,3 @@
+#Lentokenttäpeli
+
+while True:
